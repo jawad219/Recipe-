@@ -4,7 +4,7 @@
 
 // Tumhara Cloudflare Worker
 const WORKER_URL =
-    "https://new-recipy-api.jawadshahid136.workers.dev";
+    "new-recipe-api.jawadshahid136.workers.dev";
 
 let customIngredients = [];
 let generatedRecipes = [];
