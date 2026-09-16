@@ -4,7 +4,7 @@
 
 // Tumhara Cloudflare Worker
 const WORKER_URL =
-    "groq-api.jawadshahid136.workers.dev";
+    "https://groq-api.jawadshahid136.workers.dev";
 
 let customIngredients = [];
 let generatedRecipes = [];
